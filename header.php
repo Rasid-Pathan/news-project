@@ -1,6 +1,6 @@
 <?php 
 include "config.php";
-
+//This is test
 $page = basename($_SERVER['PHP_SELF']);
 
 switch ($page) {
